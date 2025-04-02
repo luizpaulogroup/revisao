@@ -1,0 +1,17 @@
+#paragrafo {
+    /* # captura id */
+    text-align: center;
+    /* Alinhar texto ao centro */
+    font-size: 50px;
+    /* Define o tamanho da fonte */
+}
+
+.conteudo {
+    /* captura class */
+    width: 100px;
+    /* Largura */
+    height: 100px;
+    /* Altura */
+    background-color: deepskyblue;
+    /* Cor de fundo */
+}
